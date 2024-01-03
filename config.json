@@ -13,8 +13,7 @@
     {
       "type": "hysteria",
       "tag": "Hysteria-5013",
-      "server": "104.24.69.149
- ", 
+      "server": "104.24.69.149", 
       "server_port": 443,
       "up_mbps": 1000, 
       "down_mbps": 1000,
