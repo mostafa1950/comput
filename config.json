@@ -13,8 +13,8 @@
     {
       "type": "hysteria",
       "tag": "Hysteria-5013",
-      "server": "104.24.69.149", 
-      "server_port": 443,
+      "server": "108.181.22.213", 
+      "server_port": 33450,
       "up_mbps": 1000, 
       "down_mbps": 1000,
       "auth_str": "dongtaiwang.com",
